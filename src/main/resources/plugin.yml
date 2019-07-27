@@ -1,0 +1,15 @@
+name: BanknotesPlus
+version: 1.0
+description: A working, customizable bank notes plugin for your server
+author: AvroVulcan
+main: com.github.avroovulcan.banknotesplus.BankNotesPlus
+depend: [Vault]
+commands:
+  withdraw:
+    default: op
+    description: Withdraw money
+    usage: /withdraw <amount>
+  givenote:
+    default: op
+    description: Gives a note to a player
+    usage: /givenote <player> <amount>
