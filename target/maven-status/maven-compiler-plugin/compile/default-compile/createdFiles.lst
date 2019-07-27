@@ -1,5 +1,0 @@
-com\github\avroovulcan\banknotesplus\BankNotesPlus.class
-com\github\avroovulcan\banknotesplus\cmd\GiveNoteCommand.class
-com\github\avroovulcan\banknotesplus\cmd\WithdrawCommand.class
-com\github\avroovulcan\banknotesplus\util\Chat.class
-com\github\avroovulcan\banknotesplus\event\ReedemEvent.class
